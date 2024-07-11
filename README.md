@@ -14,3 +14,6 @@ This calculator computes the simple interest based on the principal amount, annu
 ### Example
 If `p = 1000`, `t = 2`, and `r = 5`, then `simple interest = 1000 * 2 * 5 = 100`
 
+2023 XYZ, Inc.
+
+
